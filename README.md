@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27F718&center=true&vCenter=true&width=435&lines=Building+GenAI+Apps;Python+Developer;Exploring+LLMs;FastAPI+%26+React" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27F718&center=true&vCenter=true&width=435&lines=Building+GenAI+Apps;Python+Developer;Exploring+LLMs;Fast/FlaskAPI+%26+React" alt="Typing SVG" />
 
 <br/>
 
