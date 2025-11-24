@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Hayat786/Hayat786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🤖 Welcome to the AI World of Hayat
 
-Here are some ideas to get you started:
+### 🚀 Learn Basic to Advance with me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27F718&center=true&vCenter=true&width=435&lines=Building+GenAI+Apps;Python+Developer;Exploring+LLMs;FastAPI+%26+React" alt="Typing SVG" />
+
+<br/>
+
+### 🛠️ Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative_AI-4B32C3?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+
+<br/>
+<br/>
+
+### 📊 Hayat's GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Hayat786&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayat786&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
+
+---
+
+### 📫 Connect with me
+*Exploring the future of AI, one line of code at a time.*
+
+</div>
